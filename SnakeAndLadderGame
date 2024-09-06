@@ -1,0 +1,58 @@
+#SnakeAndLadderGame
+
+import random
+
+# Define the board size
+BOARD_SIZE = 100
+
+# Define snakes and ladders
+snakes = {16: 6, 47: 26, 49: 11, 56: 53, 62: 19, 64: 60, 87: 24, 93: 73, 95: 75, 98: 78}
+ladders = {1: 38, 4: 14, 9: 31, 21: 42, 28: 84, 36: 44, 51: 67, 71: 91, 80: 100}
+
+# Initialize player positions
+player_positions = [0, 0]  # Positions of player 1 and player 2
+
+def roll_dice():
+    return random.randint(1, 6)
+
+def move_player(player_index, dice_roll):
+    current_position = player_positions[player_index]
+    new_position = current_position + dice_roll
+    if new_position > BOARD_SIZE:
+        new_position = current_position  # No movement if overshooting the board
+
+    # Check for ladders
+    if new_position in ladders:
+        new_position = ladders[new_position]
+
+    # Check for snakes
+    if new_position in snakes:
+        new_position = snakes[new_position]
+
+    player_positions[player_index] = new_position
+    return new_position
+
+def print_board():
+    print(f"Player 1 is on square {player_positions[0]}")
+    print(f"Player 2 is on square {player_positions[1]}")
+
+def main():
+    turn = 0
+    while True:
+        print_board()
+        player_index = turn % 2
+        input(f"Player {player_index + 1}'s turn. Press Enter to roll the dice.")
+        dice_roll = roll_dice()
+        print(f"Player {player_index + 1} rolled a {dice_roll}")
+        new_position = move_player(player_index, dice_roll)
+        print(f"Player {player_index + 1} moves to square {new_position}")
+
+        # Check for win condition
+        if new_position == BOARD_SIZE:
+            print(f"Player {player_index + 1} wins!")
+            break
+
+        turn += 1
+
+if __name__ == "__main__":
+    main()
