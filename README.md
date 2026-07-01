@@ -24,13 +24,13 @@ Processed 14.9M NYC Yellow Taxi trips through a Python and PostgreSQL pipeline, 
 
 `Python` `SQL` `PostgreSQL` `dbt` `Tableau` `Dimensional Modeling`
 
-### [AWS Sales Data Lake](https://github.com/mysurakuchuru/BigData_FinalProject)
+### [AWS Sales Data Lake](https://github.com/mysurakuchuru/aws-sales-data-lake)
 
 Designed a cloud data-lake workflow for regional sales analytics using Amazon S3, AWS Glue, PySpark, and CloudFormation, with Parquet transformation and downstream visual analysis.
 
 `AWS` `S3` `Glue` `PySpark` `CloudFormation`
 
-### [Big Data Text Analytics](https://github.com/mysurakuchuru/CSCI636-Big-Data-Analytics)
+### [Big Data Text Analytics](https://github.com/mysurakuchuru/mapreduce-text-analytics)
 
 Implemented MapReduce-style word count, stop-word filtering, bigram counting, and inverted indexing with Python and `mrjob`.
 
