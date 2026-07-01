@@ -1,134 +1,54 @@
-# Hi, I'm Mysura Reddy Kuchuru 
+# Hi, I'm Mysura Reddy Kuchuru
 
-## Data Analyst | Analytics Engineer | Data Engineer
+## Analytics Engineer | Data Engineer
 
-I am a data professional with 4+ years of experience transforming raw data into business insights through analytics engineering, ETL development, dashboarding, and AI-powered solutions.
+I build reliable data pipelines, dimensional models, and dashboards that turn raw operational data into decisions. My background spans analytics engineering, ETL development, business intelligence, API integrations, and cloud data platforms.
 
-Currently focused on:
+I am currently pursuing Analytics Engineer and Data Engineer opportunities in the United States, with Data Analyst roles as a complementary fit.
 
-* Analytics Engineering (dbt, SQL, PostgreSQL)
-* Data Engineering (ETL Pipelines, Data Modeling)
-* Business Intelligence (Power BI, Tableau)
-* AI & LLM Applications
-* Cloud Data Platforms (AWS & GCP)
+## Core skills
 
----
+| Area | Technologies |
+| --- | --- |
+| Data engineering | Python, SQL, PostgreSQL, Pandas, ETL/ELT, data modeling, data quality |
+| Analytics engineering | dbt, dimensional modeling, analytics views, KPI design |
+| Business intelligence | Tableau, Power BI, Excel, Power Query |
+| Cloud and delivery | AWS, Google Cloud, Docker, Kubernetes, Git, GitHub |
+| Applied AI | OpenAI APIs, LLM applications, RAG, NLP, semantic search |
 
-## Tech Stack
+## Featured work
 
-### Analytics & Data Engineering
+### [NYC Taxi Analytics Platform](https://github.com/mysurakuchuru/nyc-taxi-analytics-platform)
 
-* SQL
-* PostgreSQL
-* Python
-* Pandas
-* ETL/ELT Pipelines
-* Data Modeling
-* Data Quality Validation
-* API Integrations
+Processed 14.9M NYC Yellow Taxi trips through a Python and PostgreSQL pipeline, modeled a dimensional warehouse, added dbt documentation and tests, and delivered a Tableau dashboard over 14.17M curated records.
 
-### Business Intelligence
+`Python` `SQL` `PostgreSQL` `dbt` `Tableau` `Dimensional Modeling`
 
-* Power BI
-* Tableau
-* Excel
-* Power Query
+### [AWS Sales Data Lake](https://github.com/mysurakuchuru/BigData_FinalProject)
 
-### Cloud & DevOps
+Designed a cloud data-lake workflow for regional sales analytics using Amazon S3, AWS Glue, PySpark, and CloudFormation, with Parquet transformation and downstream visual analysis.
 
-* AWS
-* Google Cloud Platform (GCP)
-* Docker
-* Kubernetes
-* Git & GitHub
+`AWS` `S3` `Glue` `PySpark` `CloudFormation`
 
-### AI & Machine Learning
+### [Big Data Text Analytics](https://github.com/mysurakuchuru/CSCI636-Big-Data-Analytics)
 
-* OpenAI APIs
-* LLM Applications
-* LangChain
-* RAG Systems
-* NLP
-* Semantic Search
+Implemented MapReduce-style word count, stop-word filtering, bigram counting, and inverted indexing with Python and `mrjob`.
 
----
+`Python` `MapReduce` `mrjob` `Text Analytics`
 
-## Featured Projects
+## Experience
 
-### NYC Taxi Analytics Platform
-
-Modern data engineering project using:
-
-* PostgreSQL
-* dbt
-* Python
-* Tableau
-* Data Modeling
-* Analytics Engineering
-
-### Chicago Public Schools Analytics
-
-End-to-end analytics project:
-
-* Data Cleaning
-* SQL Analysis
-* Tableau Dashboarding
-* KPI Reporting
-
-### AI-Powered Analytics Assistant
-
-Natural language analytics platform using:
-
-* LLMs
-* Prompt Engineering
-* Semantic Search
-* Automated Reporting
-
----
-
-## Professional Experience
-
-### Data Analyst | Tower Auto Group
-
-* Claims analytics and reporting
-* Recovery analytics
-* Data reconciliation
-* Dashboard automation
-* Process optimization
-
-### Data Science & Visualization Intern | App Orchid
-
-* LLM-powered solutions
-* NLP applications
-* Flask APIs
-* Cloud automation
-* Enterprise dashboards
-
-### Software Engineer | Capgemini
-
-* Java Development
-* SQL Development
-* AWS Fundamentals
-* API Integrations
-
----
+- **Data Analyst, Tower Auto Group** — claims and recovery analytics, reconciliation, dashboard automation, and process improvement
+- **Data Science & Visualization Intern, App Orchid** — LLM and NLP applications, Flask APIs, cloud automation, and enterprise dashboards
+- **Software Engineer, Capgemini** — Java and SQL development, AWS fundamentals, and API integrations
 
 ## Education
 
-🎓 M.S. Computer Science
-New York Institute of Technology (May 2024)
+- **M.S. in Computer Science**, New York Institute of Technology, 2024
+- **B.Tech in Electronics & Communication Engineering**, Jawaharlal Nehru Technological University
 
-🎓 B.Tech Electronics & Communication Engineering
-Jawaharlal Nehru Technological University
+## Contact
 
----
-
-## Let's Connect
-
-📧 [kuchurumysurareddy@gmail.com](mailto:kuchurumysurareddy@gmail.com)
-
-💼 LinkedIn: linkedin.com/in/kuchurumysurareddy
-
-📍 Charlotte, North Carolina, USA
-
-Always interested in Data Engineering, Analytics Engineering, Data Analytics, and AI-driven opportunities.
+- [LinkedIn](https://www.linkedin.com/in/kuchurumysurareddy/)
+- [Email](mailto:kuchurumysurareddy@gmail.com)
+- Charlotte, North Carolina, USA
