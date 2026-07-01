@@ -1,10 +1,10 @@
 # Hi, I'm Mysura Reddy Kuchuru
 
-## Analytics Engineer | Data Engineer
+## Data Engineer | Analytics Engineer | Data Analyst
 
-I build reliable data pipelines, dimensional models, and dashboards that turn raw operational data into decisions. My background spans analytics engineering, ETL development, business intelligence, API integrations, and cloud data platforms.
+I build reliable data pipelines, dimensional models, analyses, and dashboards that turn raw operational data into decisions. My background spans data engineering, analytics engineering, data analysis, ETL development, business intelligence, API integrations, and cloud data platforms.
 
-I am currently pursuing Analytics Engineer and Data Engineer opportunities in the United States, with Data Analyst roles as a complementary fit.
+I am currently pursuing Data Engineer, Analytics Engineer, Data Analyst, BI Analyst, ETL Developer, and related data opportunities in the United States.
 
 ## Core skills
 
@@ -12,6 +12,7 @@ I am currently pursuing Analytics Engineer and Data Engineer opportunities in th
 | --- | --- |
 | Data engineering | Python, SQL, PostgreSQL, Pandas, ETL/ELT, data modeling, data quality |
 | Analytics engineering | dbt, dimensional modeling, analytics views, KPI design |
+| Data analysis | Exploratory analysis, data cleaning, reconciliation, trend analysis, KPI reporting |
 | Business intelligence | Tableau, Power BI, Excel, Power Query |
 | Cloud and delivery | AWS, Google Cloud, Docker, Kubernetes, Git, GitHub |
 | Applied AI | OpenAI APIs, LLM applications, RAG, NLP, semantic search |
